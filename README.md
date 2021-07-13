@@ -26,6 +26,11 @@
 <code><img height="48" src="https://img.icons8.com/dusk/64/000000/css3.png" /></code>
 
 #### Stats 👨‍💻
+
+<a href="https://github.com/harsh010501">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh010501&theme=radical&hide=glsl,python" />
+</a>
+
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsh010501&show_icons=true&theme=radical)
 
 ##### Thanks Alot for coming to my profile.

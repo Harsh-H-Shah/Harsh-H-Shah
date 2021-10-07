@@ -28,9 +28,14 @@
 #### Stats 👨‍💻
 
 <a href="https://github.com/harsh010501">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-H-Shah&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-H-Shah&theme=tokyonight&hide=glsl,python" />
 </a>
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=Harsh-H-Shah&show_icons=true&theme=radical)
+<a href="https://github.com/harsh010501" align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-H-Shah&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" />
+	
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-H-Shah&show_icons=true&theme=tokyonight" />
+</a>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Harsh-H-Shah&theme=react-dark" />
 
 ##### Thanks Alot for coming to my profile.

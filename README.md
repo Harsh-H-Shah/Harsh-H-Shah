@@ -27,9 +27,6 @@
 
 #### Stats 👨‍💻
 
-<a href="https://github.com/harsh010501">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-H-Shah&theme=tokyonight&hide=glsl,python" />
-</a>
 
 <a href="https://github.com/harsh010501" align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-H-Shah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />

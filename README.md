@@ -28,7 +28,7 @@
 #### Stats 👨‍💻
 
 
-<a href="https://github.com/harsh010501" align="center">
+<a href="https://github.com/Harsh-H-Shah" align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-H-Shah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 	
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-H-Shah&show_icons=true&theme=tokyonight" />

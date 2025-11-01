@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/harshshah/harshshah/blob/main/Harsh_github_banner.png" alt="Harsh Shah Banner" width="100%">
+  <img src="https://github.com/Harsh-H-Shah/Harsh-H-Shah/blob/849593def3c38415cc6ee3ff6f53a32b2754ab8f/Harsh_github_banner.png" alt="Harsh Shah Banner" width="100%">
 </p>
 
 <!-- Intro -->

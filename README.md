@@ -1,38 +1,70 @@
-### Hi there This is Harsh Haresh Shah👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/harshshah/harshshah/blob/main/Harsh_github_banner.png" alt="Harsh Shah Banner" width="100%">
+</p>
 
-- 🔭 I’m a Computer Science student.
-- 🌱 My tech stack is Python.
-- 👯 I’m learning MERN stack and falling in love with MERN stack.
-- 😄 It is good to see you here on my profile.
+<!-- Intro -->
+<h1 align="center">👋 Hi, I'm Harsh Shah</h1>
+<h3 align="center">Designing seamless experiences through code & creativity</h3>
 
+<!-- Badges / Links -->
+<p align="center">
+  <a href="https://harsh.software" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-harsh.software-1E90FF?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-h-shah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:harsh@harsh.software">
+    <img src="https://img.shields.io/badge/Email-me@harsh.software-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- 🤔 I’m looking for help with Django
-- 💬 Ask me about ReactJs
-- 📫 How to reach me: harshmkvviv@gmail.com
-- 🚀 Twitter : @HarshShah151
-- ⚡ Fun fact: Javascript is not compiled but an interpreted language.
+---
 
+### 🌟 About Me
+I'm a **Software Engineer** passionate about creating impactful digital experiences — from intuitive frontends to robust backend systems.  
+Currently pursuing my **MS in Computer Science at Stony Brook University**, I’ve built products that blend **aesthetic design** and **engineering precision**.
 
-#### Skills 🤖
-<code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
-<code><img height="48" src="https://img.icons8.com/nolan/64/javascript.png" /></code>
-<code><img height="48" src="https://img.icons8.com/color/48/000000/nodejs.png" /></code>
-<code><img height="48" src="https://img.icons8.com/bubbles/50/000000/react.png" /></code>
-<code><img height="48" src="https://img.icons8.com/nolan/64/sql.png" /></code>
-<code><img height="48" src="https://img.icons8.com/bubbles/50/000000/api.png" /></code>
-<code><img height="48" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /></code>
-<code><img height="48" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" /></code>
-<code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
-<code><img height="48" src="https://img.icons8.com/dusk/64/000000/css3.png" /></code>
+💡 I love working on:
+- Scalable full-stack applications  
+- Data-driven and AI-powered tools  
+- Blockchain and security research  
+- Clean, modern UI/UX systems  
 
-#### Stats 👨‍💻
+---
 
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,python,flask,java,postgresql,mongodb,git,docker,aws&theme=light" />
+</p>
 
-<a href="https://github.com/Harsh-H-Shah" align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Harsh-H-Shah&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-	
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-H-Shah&show_icons=true&theme=tokyonight" />
-</a>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Harsh-H-Shah&theme=react-dark" />
+---
 
-##### Thanks alot for coming to my profile.
+### 🚀 Featured Projects
+- 🧠 **HealthSynopsis** – AI-enhanced medical summarization using LSTMs & LLMs  
+- 🦾 **SpotiFind Inspiration** – Multimodal accessibility app that won *HopperHacks 2025*
+- 🌍 **Virtual Street Explorer** – Gesture-controlled navigation through Google Street View  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harsh-h-shah&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-h-shah&theme=default&hide_border=true"/>
+</p>
+
+---
+
+### 🧭 Let’s Connect
+<p align="center">
+  <a href="https://harsh.software" target="_blank">🌐 harsh.software</a> •
+  <a href="mailto:harsh@harsh.software">✉️ harsh@harsh.software</a> •
+  <a href="https://linkedin.com/in/harsh-h-shah">💼 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Design meets logic — that’s where the best software lives.”</i>
+</p>

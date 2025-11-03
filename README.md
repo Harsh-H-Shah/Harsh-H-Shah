@@ -49,7 +49,7 @@ Currently pursuing my **MS in Computer Science at Stony Brook University**, I’
 ---
 
 <p align="center">
-  <img src="[https://github.com/Harsh-H-Shah/Harsh-H-Shah/blob/849593def3c38415cc6ee3ff6f53a32b2754ab8f/Harsh_github_banner.png](https://github.com/Harsh-H-Shah/Harsh-H-Shah/blob/859269ca79fa297052c3e6ac1d246e46951bf4be/profile-3d-contrib/profile-night-green.svg)" alt="Harsh Shah contributions" width="100%">
+  <img src="[https://github.com/Harsh-H-Shah/Harsh-H-Shah/blob/859269ca79fa297052c3e6ac1d246e46951bf4be/profile-3d-contrib/profile-night-green.svg]" alt="Harsh Shah contributions" width="100%">
 </p>
 
 <p align="center">

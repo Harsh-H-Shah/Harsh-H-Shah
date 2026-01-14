@@ -52,11 +52,6 @@ Currently pursuing my **MS in Computer Science at Stony Brook University**, I’
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="Harsh Shah contributions" width="100%">
 </p>
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=harsh-h-shah&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-h-shah&theme=default&hide_border=true"/>
-</p>
-
 ---
 
 ### 🧭 Let’s Connect
